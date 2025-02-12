@@ -1,0 +1,3 @@
+def identify_type(data):
+ return f"Data Type:{type(data)_name_}
+print(identify_type(100))
